@@ -1,4 +1,4 @@
-## MTN Côte d'Ivoire
+## ELECTRIC CAR-SHARING SERVICE COMPANY
 
 ### OBJECTIVE
 "Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018?" is the research topic for this project. In order to break down the processes and various tactics, one will use the CRISP-DM technique. One will also use python programming to aid in comprehending how the analysis was carried out and prompting recommendations to help the electric car sharing company. Some questions to get one started;
